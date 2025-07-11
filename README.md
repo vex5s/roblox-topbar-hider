@@ -2,7 +2,7 @@
 
 RTH is an add-on for [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) that hides the Roblox TopBar menu for cleaner gameplay.
 
-![Demo](Demo.png)
+![Demo](Demo.gif)
 
 ## Usage
 
